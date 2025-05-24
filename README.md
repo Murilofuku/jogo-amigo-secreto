@@ -9,7 +9,7 @@ Este é um projeto de front-end simples e interativo para realizar sorteios de a
 - 🔁 Sorteio automático com resultados exibidos
 - 🔄 Reiniciar para novo sorteio
 
-## 🧠 Tecnologias Utilizadas
+## 🖥️ Tecnologias Utilizadas
 
 - HTML5
 - CSS3 (com uso de Normalize.css e Reset CSS)
